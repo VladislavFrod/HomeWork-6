@@ -1,41 +1,45 @@
-@media screen and (max-width: 600px){
-    header{
+@media screen and (max-width: 600px) {
+    header {
         height: 29%;
         border-radius: 20px;
     }
-    .box-B{
+
+    .box-B {
         width: 100%;
         height: 100vh;
         border-radius: 20px;
         margin-top: 30px;
     }
-   main{
-       display: flex;
-       flex-direction: column;
-       width: 100%;
-       height: 82vh;
 
-   }
-   .box-1{
-    width: 100%;
-       height: 100%;
+    main {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 82vh;
 
-   }
-   .box-C{
-    border-radius: 30%;
-       height: 10vh;
-       margin-top: 50px;
+    }
 
-   }
-   .box-D{
-       border-radius: 30%;
-       height: 10vh;
-       margin-top: 50px;
-   }
+    .box-1 {
+        width: 100%;
+        height: 100%;
+
+    }
+
+    .box-C {
+        border-radius: 30%;
+        height: 10vh;
+        margin-top: 50px;
+
+    }
+
+    .box-D {
+        border-radius: 30%;
+        height: 10vh;
+        margin-top: 50px;
+    }
 
 
-
-    .box-F{
+    .box-F {
         width: 100%;
         border-radius: 20px;
         height: 20vh;
